@@ -19,7 +19,6 @@ module.exports = {
             '@styles': path.resolve(__dirname, 'src/styles/'),
         }
     },
-    mode: production, 
     module: {
         rules: [
             {
